@@ -1,0 +1,7 @@
+{
+    "Insert character name": {
+        "prefix": "ch",
+        "body": "[ch:${1:Character Name}]",
+        "description": "Insert character name"
+    }
+}
